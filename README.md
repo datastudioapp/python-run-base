@@ -25,5 +25,5 @@ docker run -it -v ${DATAKIT_PATH}:/usr/src/app/datakit -e RUN=bindfit.run dataki
 Ensure all version numbers are updated in `build.sh` and the correct tags are applied by `docker image ls`. Remove any old tags.
 
 ```bash
-docker image push --all-tags datakits/python-run-base
+docker image push --all-tags datastudioapp/python-run-base
 ```
