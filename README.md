@@ -1,4 +1,4 @@
-# opendata.studio datakit python-run-base
+# DataStudio datakit python-run-base
 
 Base execution container for datakit algorithms.
 
